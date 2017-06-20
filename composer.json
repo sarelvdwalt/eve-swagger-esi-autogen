@@ -1,6 +1,6 @@
 {
-    "name": "GIT_USER_ID/GIT_REPO_ID",
-    "description": "",
+    "name": "sarelvdwalt/eve-swagger-esi-autogen",
+    "description": "Auto-generated EVE ESI swagger client library",
     "keywords": [
         "swagger",
         "php",
